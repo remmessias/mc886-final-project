@@ -1,0 +1,27 @@
+﻿"Tabela 1616 - Pessoas de 14 anos ou mais de idade, desocupadas na semana de referência, por tempo de procura de trabalho"
+"Variável - Pessoas de 14 anos ou mais de idade, desocupadas na semana de referência (Mil pessoas)"
+"";"Trimestre x Tempo de procura de trabalho"
+"";"4º trimestre 2012";"4º trimestre 2013";"4º trimestre 2014";"4º trimestre 2015";"4º trimestre 2016";"4º trimestre 2017";"4º trimestre 2018";"4º trimestre 2019";"4º trimestre 2020"
+"";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total"
+"Brasil";"6611";"6013";"6409";"9019";"12278";"12267";"12152";"11632";"13925"
+"Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua trimestral"
+
+"Notas"
+"1 - A partir de 30 de abril de 2019, as estimativas da PNAD Contínua passaram a ser divulgadas com base na Projeção da População do Brasil e das Unidades da Federação–Revisão 2018, disponível em: https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101597. Consequentemente, todas as estimativas da PNAD Contínua, produzidas no período de 2012 a 2019, foram recalculadas."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"

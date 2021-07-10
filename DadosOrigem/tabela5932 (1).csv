@@ -1,0 +1,25 @@
+﻿"Tabela 5932 - Taxa de variação do índice de volume trimestral"
+"Variável - Taxa acumulada ao longo do ano (em relação ao mesmo período do ano anterior) (%)"
+"","Trimestre x Setores e subsetores"
+"","1º trimestre 2021"
+"","Agropecuária - total","Indústria - total","Indústrias extrativas","Indústrias de transformação","Eletricidade e gás, água, esgoto, atividades de gestão de resíduos","Construção","Serviços - total","Comércio","Transporte, armazenagem e correio","Informação e comunicação","Atividades financeiras, de seguros e serviços relacionados","Atividades imobiliárias","Outras atividades de serviços","Administração, saúde e educação públicas e seguridade social","Valor adicionado a preços básicos","Impostos líquidos sobre produtos","PIB a preços de mercado","Despesa de consumo das famílias","Despesa de consumo da administração pública","Formação bruta de capital fixo","Exportação de bens e serviços","Importação de bens e serviços (-)"
+"Brasil","5.2","3.0","-1.3","5.6","2.1","-0.9","-0.8","3.5","1.3","5.5","5.1","3.9","-7.3","-4.4","0.8","1.9","1.0","-1.7","-4.9","17.0","0.8","7.7"
+"Fonte: IBGE - Contas Nacionais Trimestrais"
+
+""
+"Legenda"
+"Símbolo","Significado"
+"-","Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0","Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X","Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..","Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...","Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)","Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"

@@ -1,0 +1,29 @@
+﻿"Tabela 6462 - População - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior, e média anual"
+"Variável - População (Mil pessoas)"
+"";"Trimestre"
+"";"1º trimestre 2012";"2º trimestre 2012";"3º trimestre 2012";"4º trimestre 2012";"1º trimestre 2013";"2º trimestre 2013";"3º trimestre 2013";"4º trimestre 2013";"1º trimestre 2014";"2º trimestre 2014";"3º trimestre 2014";"4º trimestre 2014";"1º trimestre 2015";"2º trimestre 2015";"3º trimestre 2015";"4º trimestre 2015";"1º trimestre 2016";"2º trimestre 2016";"3º trimestre 2016";"4º trimestre 2016";"1º trimestre 2017";"2º trimestre 2017";"3º trimestre 2017";"4º trimestre 2017";"1º trimestre 2018";"2º trimestre 2018";"3º trimestre 2018";"4º trimestre 2018";"1º trimestre 2019";"2º trimestre 2019";"3º trimestre 2019";"4º trimestre 2019";"1º trimestre 2020";"2º trimestre 2020";"3º trimestre 2020";"4º trimestre 2020";"1º trimestre 2021"
+"Brasil";"197074";"197502";"197931";"198360";"198789";"199217";"199646";"200074";"200502";"200929";"201357";"201783";"202209";"202634";"203058";"203482";"203904";"204325";"204746";"205165";"205583";"206000";"206415";"206829";"207241";"207652";"208061";"208468";"208873";"209276";"209678";"210077";"210474";"210869";"211262";"211652";"212040"
+"Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua trimestral"
+
+"Notas"
+"1 - Para ""Situação da Variação em relação ao trimestre anterior (...)"" e ""Situação da Variação em relação ao mesmo trimestre do ano anterior (...)"":
+'Z' indica significância estatística considerando 95% de confiança;
+'A' indica ausência de significância estatística considerando 95% de confiança."
+"2 - A partir de 30 de abril de 2019, as estimativas da PNAD Contínua passaram a ser divulgadas com base na Projeção da População do Brasil e das Unidades da Federação–Revisão 2018, disponível em: https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101597. Consequentemente, todas as estimativas da PNAD Contínua, produzidas no período de 2012 a 2019, foram recalculadas."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
